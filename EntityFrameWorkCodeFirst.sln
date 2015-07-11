@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dlayer", "Dlayer\Dlayer.csproj", "{90A5B09C-BD03-4AC6-AFCF-79C8A66E40A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteTest", "SiteTest\SiteTest.csproj", "{110D2B31-D4B7-4EBB-A1FB-BF330C954BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A5B09C-BD03-4AC6-AFCF-79C8A66E40A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A5B09C-BD03-4AC6-AFCF-79C8A66E40A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A5B09C-BD03-4AC6-AFCF-79C8A66E40A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A5B09C-BD03-4AC6-AFCF-79C8A66E40A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110D2B31-D4B7-4EBB-A1FB-BF330C954BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110D2B31-D4B7-4EBB-A1FB-BF330C954BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110D2B31-D4B7-4EBB-A1FB-BF330C954BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110D2B31-D4B7-4EBB-A1FB-BF330C954BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

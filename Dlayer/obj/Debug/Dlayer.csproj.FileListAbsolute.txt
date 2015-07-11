@@ -1,0 +1,10 @@
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\Dlayer.dll.config
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\Dlayer.dll
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\Dlayer.pdb
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\EntityFramework.dll
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\EntityFramework.xml
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\obj\Debug\Dlayer.csprojResolveAssemblyReference.cache
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\obj\Debug\Dlayer.dll
+C:\Users\mosaeedesraa\Desktop\EntityFrameWorkCodeFirst\Dlayer\obj\Debug\Dlayer.pdb
