@@ -14,15 +14,23 @@
 2 - In _DbContext : 
 
   protected override void OnModelCreating(DbModelBuilder modelBuilder)
+  
         {
+        
             // One to Many
+            
             modelBuilder.Configurations.Add(new EmployeesMap());
+            
             modelBuilder.Configurations.Add(new DepartmentsMap());
+            
 
 
             // Many To Many
+            
             modelBuilder.Configurations.Add(new StudentsMap());
+            
             modelBuilder.Configurations.Add(new CoursesMap());
+            
 
 
             base.OnModelCreating(modelBuilder);
